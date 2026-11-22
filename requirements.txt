@@ -1,0 +1,9 @@
+# Versions are not pinned: the notebook was run on Google Colab (T4 GPU) with its default environment.
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+tensorflow
+torch
+torchvision
